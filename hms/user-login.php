@@ -90,6 +90,7 @@ exit();
 									Login <i class="fa fa-arrow-circle-right"></i>
 								</button>
 							</div>
+							<div class="new-account"><a href="../index.html">Back Home</a></div>
 							<div class="new-account">
 								Don't have an account yet?
 								<a href="registration.php">

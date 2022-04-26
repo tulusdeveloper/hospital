@@ -89,7 +89,7 @@ exit();
 									Login <i class="fa fa-arrow-circle-right"></i>
 								</button>
 							</div>
-							
+							<div class="new-account"><a href="../../index.html">Back Home</a></div>
 						
 						</fieldset>
 					</form>
