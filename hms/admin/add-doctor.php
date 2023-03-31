@@ -6,7 +6,7 @@ include('include/checklogin.php');
 check_login();
 
 if(isset($_POST['submit']))
-{	$docspecialization=$_POST['Doctorspecialization'];
+{$docspecialization=$_POST['Doctorspecialization'];
 $docname=$_POST['docname'];
 $docaddress=$_POST['clinicaddress'];
 $docfees=$_POST['docfees'];
